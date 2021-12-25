@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^7.3 || ^8.0",
-        "ray/aop": "2.x-dev"
+        "ray/aop": "2.x-dev#ca1280a2a8605cd66df61a9300992fd7575271ab"
     },
     "require-dev": {
         "bamarni/composer-bin-plugin": "^1.4",
